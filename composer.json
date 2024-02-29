@@ -1,7 +1,7 @@
 {
-    "name": "omnipay/payu",
+    "name": "php-omnipay/payu",
     "type": "library",
-    "description": "PayU driver for the Omnipay payment processing library",
+    "description": "Backup of the original PayU driver for the Omnipay payment processing library",
     "keywords": [
         "gateway",
         "merchant",
